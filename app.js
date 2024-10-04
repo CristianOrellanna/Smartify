@@ -20,7 +20,7 @@ app.use(session({
 }));
 
 app.listen(PORT, () => {
-    console.log('Servidor corriendo en el puerto ' + PORT);
+    console.log('EL SERVIDOR ESTA CORRIENDO EN EL PUERTO ' + PORT);
 });
 
 //GET Methods
